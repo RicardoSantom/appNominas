@@ -1,4 +1,6 @@
-
+/**
+ *Clase principal del proyecto appNominas
+ */
 package com.mycompany.appnominas;
 
 import java.util.Scanner;
@@ -16,7 +18,7 @@ import java.util.Scanner;
 public class AppGestionNominas {
 
     /**
-     * @param args the command line arguments
+     * clase principal aplicación appNominas
      */
     public static void main(String[] args) {
         SistemaNominas sn=new SistemaNominas();

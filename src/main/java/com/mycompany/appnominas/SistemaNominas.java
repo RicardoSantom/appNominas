@@ -68,10 +68,11 @@ public class SistemaNominas {
     }
     
     public List<Empleado> listarEmpleados(){
+        List<Empleado> listado=new ArrayList<>(empleados);
         
-         Collections.sort(empleados);
+         Collections.sort(listado);
        
-    return empleados;
+    return listado;
     }
     
     /**
