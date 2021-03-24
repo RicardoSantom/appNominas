@@ -1,2 +1,2 @@
 # appNominas
- appNominas asignatura programación DAW1
+ appNominas asignatura programación Ricardo
